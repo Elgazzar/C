@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "Set_Pin"
+		},
+		{
+			"path": "Reverse_Array"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdint.h": "c"
+		}
+	}
+}
