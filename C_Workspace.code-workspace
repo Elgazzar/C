@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "Reverse_Array"
+		},
+		{
+			"path": "Arr_Max_Element"
 		}
 	],
 	"settings": {
