@@ -8,11 +8,57 @@
 		},
 		{
 			"path": "Arr_Max_Element"
+		},
+		{
+			"path": "Increment_Operation"
+		},
+		{
+			"path": "Array_Order_Recursive"
+		},
+		{
+			"path": "Bit_Swap"
+		},
+		{
+			"path": "Bubble_Sort"
+		},
+		{
+			"path": "Linked_List"
+		},
+		{
+			"path": "Compare_Linked_List_Recurisve"
+		},
+		{
+			"path": "Const_Pointer_To_Int"
+		},
+		{
+			"path": "Insert_Delete_Linked_List"
+		},
+		{
+			"path": "Draw"
+		},
+		{
+			"path": "Big_Little_Endian"
+		},
+		{
+			"path": "Find_Repeated_Number_In_Array"
+		},
+		{
+			"path": "Function_Ptr"
+		},
+		{
+			"path": "Size_Of_Data_Types"
+		},
+		{
+			"path": "Reverse_Array_Chars"
+		},
+		{
+			"path": "Strcpy"
 		}
 	],
 	"settings": {
 		"files.associations": {
-			"stdint.h": "c"
+			"stdint.h": "c",
+			"stdio.h": "c"
 		}
 	}
 }
