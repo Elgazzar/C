@@ -53,12 +53,26 @@
 		},
 		{
 			"path": "Strcpy"
+		},
+		{
+			"path": "Swap"
+		},
+		{
+			"path": "Uart_Driver"
+		},
+		{
+			"path": "Factorial"
+		},
+		{
+			"path": "Selection_Sort"
 		}
 	],
 	"settings": {
 		"files.associations": {
 			"stdint.h": "c",
-			"stdio.h": "c"
+			"stdio.h": "c",
+			"uart_drive.h": "c",
+			"limits": "c"
 		}
 	}
 }
